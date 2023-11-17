@@ -1,0 +1,1 @@
+This project will create a basic recipe website and showcase basic html skills.
